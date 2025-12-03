@@ -1,5 +1,4 @@
-# Titulo do Projeto e a logo 
-AdapTEA
+# AdapTEA
 <img width="1024" height="1024" alt="Logo" src="https://github.com/user-attachments/assets/4ed58bc5-4065-4ee2-b6a3-9e0b4558b907" />
 
 ## Descrição
